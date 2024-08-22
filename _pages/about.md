@@ -23,55 +23,44 @@ My research interest lies in the field of Point Cloud Processing and Intelligent
 
 I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advancements on point cloud processing including enhancement, registration, localization, segmentation, detection, etc.
 
-# 🔥 News
-- *2024.07*: &nbsp;🎉🎉 Co-first author paper [EGIINet: Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion](https://arxiv.org/pdf/2407.02887) is accepted by ECCV 2024!
-- *2024.05*: &nbsp;🎉🎉 Our paper [SparseDC: Depth Completion From Sparse and Non-uniform Inputs](https://doi.org/10.1016/j.inffus.2024.102470) is accepted by Informarion Fusion!
+{% # 🔥 News %}
+{% - *2024.07*: &nbsp;🎉🎉 Co-first author paper [EGIINet: Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion](https://arxiv.org/pdf/2407.02887) is accepted by ECCV 2024! %}
+{% - *2024.05*: &nbsp;🎉🎉 Our paper [SparseDC: Depth Completion From Sparse and Non-uniform Inputs](https://doi.org/10.1016/j.inffus.2024.102470) is accepted by Informarion Fusion! %}
 
 # 📝 Publications
 \* denotes equal contributions and † denotes the corresponding author.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='https://dongzhenwhu.github.io/publications/teasers/Explicitly_Guided.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS 2024</div><img src='https://dongzhenwhu.github.io/publications/teasers/WHUUrban3D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion
+WHU-Urban3D: An urban scene LiDAR point cloud dataset for semantic instance segmentation
 
-Hang Xu<sup>*</sup>, **Chen Long<sup>*</sup>**, Wenxiao Zhang<sup>&dagger;</sup>, Yuan Liu, Zhen Cao, Zhen Dong, Bisheng Yang
+Xu Han<sup>*</sup>, **Chong Liu<sup>*</sup>**, Yuzhou Zhou, Kai Tan, Zhen Dong<sup>&dagger;</sup>, Bisheng Yang<sup>&dagger;</sup>
 
-<span style="color:red">**ECCV 2024 (CCF-B)**</span>
+<span style="color:red">**ISPRS J 2024 (IF: 10.6)**</span>
 
-[[Paper]](https://arxiv.org/pdf/2407.02887), [[Code]](https://github.com/WHU-USI3DV/EGIInet)
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S0924271624000522), [[DataSet]](https://whu3d.com/)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion</div><img src='https://dongzhenwhu.github.io/publications/teasers/sparseDC.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS 2021</div><img src='https://dongzhenwhu.github.io/publications/teasers/A_two_stage_approach.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-SparseDC: Depth Completion From Sparse and Non-uniform Inputs
+A two-stage approach for road marking extraction and modeling using MLS point clouds
 
-**Chen Long**, Wenxiao Zhang, Zhe Chen, Haiping Wang, Yuan Liu, Peiling Tong, Zhen Cao, Zhen Dong<sup>&dagger;</sup>, Bisheng Yang
+Xiaoxin Mi, Bisheng Yang<sup>&dagger;</sup>, Zhen Dong<sup>&dagger;</sup>, **Chong Liu**, Zeliang Zong, Zhenchao Yuan
 
-<span style="color:red">**Information Fusion (IF: 18.6)**</span>
+<span style="color:red">**ISPRS J 2021 (IF: 11.7)**</span>
 
-[[Paper]](https://doi.org/10.1016/j.inffus.2024.102470), [[Code]](https://github.com/WHU-USI3DV/SparseDC)
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S0924271621001970?via%3Dihub)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='https://dongzhenwhu.github.io/publications/teasers/PC2-PU.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-PC²-PU: Patch Correlation and Point Correlation for Effective Point Cloud Upsampling
-
-**Chen Long<sup>*</sup>**, WenXiao Zhang<sup>*</sup>, Ruihui Li<sup>&dagger;</sup>, Hao Wang, Zhen Dong, Bisheng Yang
-
-<span style="color:red">**ACM MM 2022 (CCF-A)**</span>
-
-[[Paper]](https://doi.org/10.1145/3503161.3547777), [[Code]](https://github.com/chenlongwhu/PC2-PU)
-</div>
-</div>
+# 💡 National Invention Patent
+- 杨必胜,**刘翀**,米晓新,等.联合点云强度和几何结构的道路标志提取方法及系统:CN202111274991.9[P].CN202111274991.9. **已授权**
+- **刘翀**,董震,米晓新.一种基于车载激光点云的斑马线三维重建方法及系统:CN202210729496.0[P].CN202210729496.0. **已授权**
 
 # 🎖 Honors and Awards
-- *2024.05*, 中国第一届空间信息技术及产业发展大会 "优秀学生报告(硕博生)"。
-
-# 💬 Conference oral presentation
-- *2024.05*, 中国第一届空间信息技术及产业发展大会
-- *2022.08*, 中国第七届计算机图形学与混合现实前沿研讨会
+- *2023.10*, 地理信息科技进步奖二等奖 "基于激光点云的城市道路空间信息智能提取关键技术与应用" （个人排名 7）
+- *2023.09*, 测绘科学技术奖二等奖 "地理实体数据高效生产与服务关键技术及应用" （个人排名 8）
+- *2022.09*, 测绘科学技术奖二等奖 "面向智能交通时空信息服务的三维激光点云数据自动处理关键技术研究" （个人排名 8）
