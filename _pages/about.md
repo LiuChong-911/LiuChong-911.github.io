@@ -19,7 +19,7 @@ redirect_from:
 
 # 🙈 About me
 
-I am a frist-year PhD student in the [LIESMARS](https://liesmars.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). My advisors are Prof. [Zhen Dong](https://dongzhenwhu.github.io/index.html) and Prof. [Bisheng Yang](https://3s.whu.edu.cn/info/1025/1415.htm).  Previously, I obtained my B.Eng degree at [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/), Wuhan University.
+I am a PhD student in [LIESMARS](https://liesmars.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). My advisors are Prof. [Zhen Dong](https://dongzhenwhu.github.io/index.html) and Prof. [Bisheng Yang](https://3s.whu.edu.cn/info/1025/1415.htm). Previously, I obtained my B.Eng degree at [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/), Wuhan University.
 
 My research interest lies in the field of Point Cloud Processing and Intelligent Transportation. If you are interested in my research, feel free to contact me at <liuchongwhu@whu.edu.cn>!
 
