@@ -23,10 +23,6 @@ My research interest lies in the field of Point Cloud Processing and Intelligent
 
 I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advancements on point cloud processing including enhancement, registration, localization, segmentation, detection, etc.
 
-{% # 🔥 News %}
-{% - *2024.07*: &nbsp;🎉🎉 Co-first author paper [EGIINet: Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion](https://arxiv.org/pdf/2407.02887) is accepted by ECCV 2024! %}
-{% - *2024.05*: &nbsp;🎉🎉 Our paper [SparseDC: Depth Completion From Sparse and Non-uniform Inputs](https://doi.org/10.1016/j.inffus.2024.102470) is accepted by Informarion Fusion! %}
-
 # 📝 Publications
 \* denotes equal contributions and † denotes the corresponding author.
 
