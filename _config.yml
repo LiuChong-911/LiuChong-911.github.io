@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chen Long"
+title                    : "Chong Liu"
 description              : " PHD student of Wuhan University "
-repository               : "chenlongwhu/chenlongwhu.github.io"
+repository               : "LiuChong-911/LiuChong-911.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Chen Long (龙宸)"
+  name             : "Chong Liu (刘翀)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Wuhan University"
   location         : "Wuhan, China"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=NeuvrwwAAAAJ"
-  email            : "chenlong107@whu.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=__UJpy0AAAAJ"
+  email            : "liuchongwhu@whu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
