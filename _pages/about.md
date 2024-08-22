@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a frist-year PhD student in the [LIESMARS](https://liesmars.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). My advisors are Prof. [Zhen Dong](https://dongzhenwhu.github.io/index.html) and Prof. [Bisheng Yang](https://3s.whu.edu.cn/info/1025/1415.htm).  Previously, I obtained my B.Eng degree at [SGG](http://main.sgg.whu.edu.cn/) of Wuhan University.
+I am a frist-year PhD student in the [LIESMARS](https://liesmars.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). My advisors are Prof. [Zhen Dong](https://dongzhenwhu.github.io/index.html) and Prof. [Bisheng Yang](https://3s.whu.edu.cn/info/1025/1415.htm).  Previously, I obtained my B.Eng degree at [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/), Wuhan University.
 
-My research interest lies in the field of 3D Computer Vision, particularly including point cloud enhancement (upsampling, denoising, completion , etc), 3D shape restoration. Besides, I am conducting some researches related to urban sustainable development. If you are interested in my research, feel free to contact me at <chenlong107@whu.edu.cn>!
+My research interest lies in the field of Point Cloud Processing and Intelligent Transportation. If you are interested in my research, feel free to contact me at <liuchongwhu@whu.edu.cn>!
 
 I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advancements on point cloud processing including enhancement, registration, localization, segmentation, detection, etc.
 
