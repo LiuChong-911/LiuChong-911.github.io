@@ -26,7 +26,20 @@ My research interest lies in the field of Point Cloud Processing and Intelligent
 I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advancements on point cloud processing including enhancement, registration, localization, segmentation, detection, etc.
 
 # 📝 Publications
-\* denotes equal contributions and † denotes the corresponding author.
+**\* denotes equal contributions and † denotes the corresponding author.**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Remote Sensing 2024</div><img src='../images/fig4lenth.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Three-Dimensional Reconstruction of Zebra Crossings in Vehicle-Mounted LiDAR Point Clouds
+
+Zhenfeng Zhao, Shu Gan, Bo Xiao, Xinpeng Wang, **Chong Liu<sup>&dagger;</sup>**
+
+<span style="color:red">**Remote Sensing 2024 (IF: 4.2)**</span>
+
+[[Paper]]([https://www.sciencedirect.com/science/article/pii/S0924271624000522](https://www.mdpi.com/2072-4292/16/19/3722))
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS 2024</div><img src='https://dongzhenwhu.github.io/publications/teasers/WHUUrban3D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
