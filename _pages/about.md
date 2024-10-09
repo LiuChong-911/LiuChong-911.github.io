@@ -37,7 +37,7 @@ Zhenfeng Zhao, Shu Gan, Bo Xiao, Xinpeng Wang, **Chong Liu<sup>&dagger;</sup>**
 
 <span style="color:red">**Remote Sensing 2024 (IF: 4.2)**</span>
 
-[[Paper]]([https://www.sciencedirect.com/science/article/pii/S0924271624000522](https://www.mdpi.com/2072-4292/16/19/3722))
+[[Paper]](https://www.mdpi.com/2072-4292/16/19/3722)
 </div>
 </div>
 
