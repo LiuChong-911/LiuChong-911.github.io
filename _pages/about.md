@@ -28,7 +28,7 @@ I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advan
 # 📝 Publications
 **\* denotes equal contributions and † denotes the corresponding author.**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Remote Sensing 2024</div><img src='../images/fig4lenth.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Remote Sensing 2024</div><img src='../images/Zebra.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Three-Dimensional Reconstruction of Zebra Crossings in Vehicle-Mounted LiDAR Point Clouds
