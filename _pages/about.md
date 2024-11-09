@@ -41,7 +41,7 @@ Zhenfeng Zhao, Shu Gan, Bo Xiao, Xinpeng Wang, **Chong Liu<sup>&dagger;</sup>**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS 2024</div><img src='https://dongzhenwhu.github.io/publications/teasers/WHUUrban3D.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS 2024</div><img src='../images/Urban3D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 WHU-Urban3D: An urban scene LiDAR point cloud dataset for semantic instance segmentation
