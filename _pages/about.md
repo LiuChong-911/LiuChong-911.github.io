@@ -54,7 +54,7 @@ Xu Han<sup>*</sup>, **Chong Liu<sup>*</sup>**, Yuzhou Zhou, Kai Tan, Zhen Dong<s
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS 2021</div><img src='https://dongzhenwhu.github.io/publications/teasers/A_two_stage_approach.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS 2021</div><img src='../images/Marking.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 A two-stage approach for road marking extraction and modeling using MLS point clouds
