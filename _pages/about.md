@@ -28,6 +28,20 @@ I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advan
 # 📝 Publications
 **\* denotes equal contributions and † denotes the corresponding author.**
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2024</div><img src='../images/INF-PCA.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+INF-PCA: Implicit Neural Field-Based Interactive Point Cloud Semantic Annotation
+
+**Chong Liu<sup>*</sup>**, Xu Han<sup>*</sup>,  Weihong Huang, Chen Long, Wang Wang, Zhen Dong<sup>&dagger;</sup>, Bisheng Yang<sup>&dagger;</sup>
+
+<span style="color:red">**TITS 2024 (IF: 7.9)**</span>
+
+[[Paper]](https://ieeexplore.ieee.org/document/10767851)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Remote Sensing 2024</div><img src='../images/Zebra.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
