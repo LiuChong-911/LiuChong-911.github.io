@@ -28,6 +28,18 @@ I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advan
 # 📝 Publications
 **\* denotes equal contributions and † denotes the corresponding author.**
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIC 2025</div><img src='../images/OpenSet.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Training-free open-set 3D inventory of transportation infrastructure by combining point clouds and images
+
+**Chong Liu**, Mingyu Xie, Changzheng Yuan, Fuxun Liang<sup>&dagger;</sup>, Zhen Dong, Bisheng Yang
+
+<span style="color:red">**TITS 2024 (IF: 7.9)**</span>
+
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S0926580525004170)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2024</div><img src='../images/INF-PCA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
