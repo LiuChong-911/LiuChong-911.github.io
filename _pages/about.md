@@ -54,7 +54,7 @@ INF-PCA: Implicit Neural Field-Based Interactive Point Cloud Semantic Annotation
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Remote Sensing 2024</div><img src='../images/Zebra.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RS 2024</div><img src='../images/Zebra.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Three-Dimensional Reconstruction of Zebra Crossings in Vehicle-Mounted LiDAR Point Clouds
