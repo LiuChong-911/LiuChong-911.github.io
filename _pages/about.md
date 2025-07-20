@@ -61,7 +61,7 @@ Three-Dimensional Reconstruction of Zebra Crossings in Vehicle-Mounted LiDAR Poi
 
 Zhenfeng Zhao, Shu Gan, Bo Xiao, Xinpeng Wang, **Chong Liu<sup>&dagger;</sup>**
 
-<span style="color:red">**Remote Sensing 2024 (IF: 4.2)**</span>
+<span style="color:red">**Remote Sensing 2024 (IF: 4.1)**</span>
 
 [[Paper]](https://www.mdpi.com/2072-4292/16/19/3722)
 </div>
@@ -74,7 +74,7 @@ WHU-Urban3D: An urban scene LiDAR point cloud dataset for semantic instance segm
 
 Xu Han<sup>*</sup>, **Chong Liu<sup>*</sup>**, Yuzhou Zhou, Kai Tan, Zhen Dong<sup>&dagger;</sup>, Bisheng Yang<sup>&dagger;</sup>
 
-<span style="color:red">**ISPRS JOURNAL OF PHOTOGRAMMETRY AND REMOTE SENSING 2024 (IF: 10.6)**</span>
+<span style="color:red">**ISPRS JOURNAL OF PHOTOGRAMMETRY AND REMOTE SENSING 2024 (IF: 12.2)**</span>
 
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0924271624000522), [[DataSet]](https://whu3d.com/)
 </div>
