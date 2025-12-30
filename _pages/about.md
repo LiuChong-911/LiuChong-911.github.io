@@ -93,6 +93,19 @@ Xiaoxin Mi, Bisheng Yang<sup>&dagger;</sup>, Zhen Dong<sup>&dagger;</sup>, **Cho
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIC 2025</div><img src='../images/Wangwang.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Unified data synthesis for automated 3D Visual Inspection and digital twinning of bridges
+
+Wang Wang, Mingjing Xu, Zhen Cao, Jingzi Guo, **Chong Liu**, Haowei Zhang, Xiaoling Zhang
+
+<span style="color:red">**Automation in Construction 2025 (IF: 11.5)**</span>
+
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S0926580525004170)
+</div>
+</div>
+
 # 💡 National Invention Patent
 - **刘翀**,董震,米晓新.一种基于车载激光点云的斑马线三维重建方法及系统:CN202210729496.0[P]. **已授权**
 - 杨必胜,**刘翀**,米晓新,等.联合点云强度和几何结构的道路标志提取方法及系统:CN202111274991.9[P]. **已授权**
