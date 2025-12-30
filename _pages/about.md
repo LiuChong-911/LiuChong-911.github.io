@@ -54,19 +54,6 @@ INF-PCA: Implicit Neural Field-Based Interactive Point Cloud Semantic Annotation
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RS 2024</div><img src='../images/Zebra.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Three-Dimensional Reconstruction of Zebra Crossings in Vehicle-Mounted LiDAR Point Clouds
-
-Zhenfeng Zhao, Shu Gan, Bo Xiao, Xinpeng Wang, **Chong Liu<sup>&dagger;</sup>**
-
-<span style="color:red">**Remote Sensing 2024 (IF: 4.1)**</span>
-
-[[Paper]](https://www.mdpi.com/2072-4292/16/19/3722)
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS 2024</div><img src='../images/Urban3D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -77,6 +64,19 @@ Xu Han<sup>*</sup>, **Chong Liu<sup>*</sup>**, Yuzhou Zhou, Kai Tan, Zhen Dong<s
 <span style="color:red">**ISPRS JOURNAL OF PHOTOGRAMMETRY AND REMOTE SENSING 2024 (IF: 12.2)**</span>
 
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0924271624000522), [[DataSet]](https://whu3d.com/)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RS 2024</div><img src='../images/Zebra.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Three-Dimensional Reconstruction of Zebra Crossings in Vehicle-Mounted LiDAR Point Clouds
+
+Zhenfeng Zhao, Shu Gan, Bo Xiao, Xinpeng Wang, **Chong Liu<sup>&dagger;</sup>**
+
+<span style="color:red">**Remote Sensing 2024 (IF: 4.1)**</span>
+
+[[Paper]](https://www.mdpi.com/2072-4292/16/19/3722)
 </div>
 </div>
 
