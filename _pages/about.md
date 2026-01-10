@@ -62,6 +62,8 @@ WHU-Urban3D: An urban scene LiDAR point cloud dataset for semantic instance segm
 Xu Han<sup>*</sup>, **Chong Liu<sup>*</sup>**, Yuzhou Zhou, Kai Tan, Zhen Dong<sup>&dagger;</sup>, Bisheng Yang<sup>&dagger;</sup>
 
 <span style="color:red">**ISPRS JOURNAL OF PHOTOGRAMMETRY AND REMOTE SENSING 2024 (IF: 12.2)**</span>
+<br>
+<span style="color:#FF8C00; font-weight:bold">🏆 ESI Highly Cited Paper !</span>
 
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0924271624000522), [[DataSet]](https://whu3d.com/)
 </div>
