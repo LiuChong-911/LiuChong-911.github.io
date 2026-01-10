@@ -35,7 +35,7 @@ Training-free open-set 3D inventory of transportation infrastructure by combinin
 
 **Chong Liu**, Mingyu Xie, Changzheng Yuan, Fuxun Liang<sup>&dagger;</sup>, Zhen Dong, Bisheng Yang
 
-<span style="color:red">**Automation in Construction 2025 (IF: 11.5)**</span>
+<span style="color:#1E90FF">**Automation in Construction 2025 (IF: 11.5)**</span>
 
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0926580525004170)
 </div>
@@ -48,7 +48,7 @@ INF-PCA: Implicit Neural Field-Based Interactive Point Cloud Semantic Annotation
 
 **Chong Liu<sup>*</sup>**, Xu Han<sup>*</sup>,  Weihong Huang, Chen Long, Wang Wang, Zhen Dong<sup>&dagger;</sup>, Bisheng Yang<sup>&dagger;</sup>
 
-<span style="color:red">**IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS 2024 (IF: 8.4)**</span>
+<span style="color:#1E90FF">**IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS 2024 (IF: 8.4)**</span>
 
 [[Paper]](https://ieeexplore.ieee.org/document/10767851)
 </div>
@@ -61,7 +61,7 @@ WHU-Urban3D: An urban scene LiDAR point cloud dataset for semantic instance segm
 
 Xu Han<sup>*</sup>, **Chong Liu<sup>*</sup>**, Yuzhou Zhou, Kai Tan, Zhen Dong<sup>&dagger;</sup>, Bisheng Yang<sup>&dagger;</sup>
 
-<span style="color:red">**ISPRS JOURNAL OF PHOTOGRAMMETRY AND REMOTE SENSING 2024 (IF: 12.2)**</span>
+<span style="color:#1E90FF">**ISPRS JOURNAL OF PHOTOGRAMMETRY AND REMOTE SENSING 2024 (IF: 12.2)**</span>
 <br>
 <span style="color:#FF8C00; font-weight:bold">🏆 ESI Highly Cited Paper !</span>
 
@@ -76,7 +76,7 @@ Three-Dimensional Reconstruction of Zebra Crossings in Vehicle-Mounted LiDAR Poi
 
 Zhenfeng Zhao, Shu Gan, Bo Xiao, Xinpeng Wang, **Chong Liu<sup>&dagger;</sup>**
 
-<span style="color:red">**Remote Sensing 2024 (IF: 4.1)**</span>
+<span style="color:#1E90FF">**Remote Sensing 2024 (IF: 4.1)**</span>
 
 [[Paper]](https://www.mdpi.com/2072-4292/16/19/3722)
 </div>
@@ -89,7 +89,7 @@ A two-stage approach for road marking extraction and modeling using MLS point cl
 
 Xiaoxin Mi, Bisheng Yang<sup>&dagger;</sup>, Zhen Dong<sup>&dagger;</sup>, **Chong Liu**, Zeliang Zong, Zhenchao Yuan
 
-<span style="color:red">**ISPRS JOURNAL OF PHOTOGRAMMETRY AND REMOTE SENSING 2021 (IF: 11.7)**</span>
+<span style="color:#1E90FF">**ISPRS JOURNAL OF PHOTOGRAMMETRY AND REMOTE SENSING 2021 (IF: 11.7)**</span>
 
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0924271621001970?via%3Dihub)
 </div>
@@ -102,7 +102,7 @@ Unified data synthesis for automated 3D Visual Inspection and digital twinning o
 
 Wang Wang, Mingjing Xu, Zhen Cao, Jingzi Guo, **Chong Liu**, Haowei Zhang, Xiaoling Zhang
 
-<span style="color:red">**Automation in Construction 2025 (IF: 11.5)**</span>
+<span style="color:#1E90FF">**Automation in Construction 2025 (IF: 11.5)**</span>
 
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0926580525004170)
 </div>
