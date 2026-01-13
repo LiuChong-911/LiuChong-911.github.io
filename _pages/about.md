@@ -104,7 +104,7 @@ Wang Wang, Mingjing Xu, Zhen Cao, Jingzi Guo, **Chong Liu**, Haowei Zhang, Xiaol
 
 <span style="color:#1E90FF">**Automation in Construction 2025 (IF: 11.5)**</span>
 
-[[Paper]](https://www.sciencedirect.com/science/article/pii/S0926580525004170)
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S0926580525007812)
 </div>
 </div>
 
