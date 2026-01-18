@@ -28,7 +28,7 @@ I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advan
 # 📝 Publications
 **\* denotes equal contributions and † denotes the corresponding author.**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='../images/SSVI-3D-2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='../images/SSVI-3D.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 SVII-3D: Advancing Roadside Infrastructure Inventory with Decimeter-level 3D Localization and Comprehension from Sparse Street Imagery
