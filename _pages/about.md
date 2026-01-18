@@ -28,6 +28,32 @@ I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advan
 # 📝 Publications
 **\* denotes equal contributions and † denotes the corresponding author.**
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='../images/SSVI-3D.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+SVII-3D: Advancing Roadside Infrastructure Inventory with Decimeter-level 3D Localization and Comprehension from Sparse Street Imagery
+
+**Chong Liu**, Luxuan Fu, Yang Jia, Zhen Dong<sup>&dagger;</sup>, Bisheng Yang
+
+<span style="color:#1E90FF">**Arxiv 2026**</span>
+
+[[Paper]](https://arxiv.org/abs/2601.10535)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='../images/Attribute.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Unleashing the Capabilities of Large Vision-Language Models for Intelligent Perception of Roadside Infrastructure
+
+Luxuan Fu<sup>*</sup>, **Chong Liu<sup>*</sup>**, Bisheng Yang<sup>&dagger;</sup>, Zhen Dong
+
+<span style="color:#1E90FF">**Arxiv 2026**</span>
+
+[[Paper]](http://arxiv.org/abs/2601.10551)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIC 2025</div><img src='../images/OpenSet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
