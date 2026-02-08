@@ -28,6 +28,19 @@ I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advan
 # 📝 Publications
 **\* denotes equal contributions and † denotes the corresponding author.**
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2026</div><img src='../images/ME-CPT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ME-CPT: Multi-Task Enhanced Cross-Temporal Point Transformer for Urban 3D Change Detection
+
+Luqi Zhang, Haiping Wang, **Chong Liu**, Zhen Dong<sup>&dagger;</sup>, Bisheng Yang<sup>&dagger;</sup>
+
+<span style="color:#1E90FF">**IEEE Transactions on Geoscience and Remote Sensing 2026** (IF: 8.6)</span>
+
+[[Paper]](https://ieeexplore.ieee.org/document/11373266)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='../images/SSVI-3D.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
