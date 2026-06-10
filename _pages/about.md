@@ -28,6 +28,19 @@ I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advan
 # 📝 Publications
 **\* denotes equal contributions and † denotes the corresponding author.**
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='../images/WHU-Infra3D-Teaser.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+WHU-Infra3D: A Full-stack Multi-modal Dataset and Benchmark for 3D Roadside Infrastructure Inventory
+
+**Chong Liu<sup>*</sup>**, Luxuan Fu<sup>*</sup>, Xuyu Feng, Zhen Dong<sup>&dagger;</sup>, Bisheng Yang
+
+<span style="color:#1E90FF">**Arxiv 2026**</span>
+
+[[Paper]](https://arxiv.org/pdf/2606.09882)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='../images/SSVI-3D.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
