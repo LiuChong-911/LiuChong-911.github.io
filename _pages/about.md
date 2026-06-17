@@ -74,7 +74,7 @@ Training-free open-set 3D inventory of transportation infrastructure by combinin
 
 **Chong Liu**, Mingyu Xie, Changzheng Yuan, Fuxun Liang<sup>&dagger;</sup>, Zhen Dong, Bisheng Yang
 
-<span style="color:#1E90FF">**Automation in Construction 2025 (IF: 11.5)**</span>
+<span style="color:#1E90FF">**Automation in Construction 2025 (IF: 12.6)**</span>
 
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0926580525004170)
 </div>
@@ -161,12 +161,13 @@ Wang Wang, Mingjing Xu, Zhen Cao, Jingzi Guo, **Chong Liu**, Haowei Zhang, Xiaol
 </div>
 
 # 💡 National Invention Patent
-- **刘翀**,董震,米晓新.一种基于车载激光点云的斑马线三维重建方法及系统:CN202210729496.0[P]. **已授权**
-- 杨必胜,**刘翀**,米晓新,等.联合点云强度和几何结构的道路标志提取方法及系统:CN202111274991.9[P]. **已授权**
-- **刘翀**,朱贵方,李强,等.基于隐式神经场网络的点云交互式语义标注方法和装置:CN202411062689.0[P]. **已授权**
 - 董震,**刘翀**,梁福逊.开放集交通基础设施三维数字化大模型构建方法与装置:CN202510601387.4[P]. **已授权**
+- **刘翀**,朱贵方,李强,等.基于隐式神经场网络的点云交互式语义标注方法和装置:CN202411062689.0[P]. **已授权**
+- 杨必胜,**刘翀**,米晓新,等.联合点云强度和几何结构的道路标志提取方法及系统:CN202111274991.9[P]. **已授权**
+- **刘翀**,董震,米晓新.一种基于车载激光点云的斑马线三维重建方法及系统:CN202210729496.0[P]. **已授权**
 
 # 👻 Honors and Awards
+- *2026.06*, **辽宁省科技进步奖二等奖** "面向多尺度城市实景三维建设的点云智能处理关键技术创新及应用" （个人排名 9）
 - *2023.10*, **地理信息科技进步奖二等奖** "基于激光点云的城市道路空间信息智能提取关键技术与应用" （个人排名 7）
 - *2023.09*, **测绘科学技术奖二等奖** "地理实体数据高效生产与服务关键技术及应用" （个人排名 8）
 - *2022.09*, **测绘科学技术奖二等奖** "面向智能交通时空信息服务的三维激光点云数据自动处理关键技术研究" （个人排名 8）
